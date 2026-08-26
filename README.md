@@ -28,7 +28,8 @@ A partir do relatório desenvolvido, destacam-se os seguintes resultados analít
 
 ### 1. Relatório de Vendas Considerando Produtos e Segmento
 `![<img width="2146" height="1218" alt="image" src="https://github.com/user-attachments/assets/20ca4060-d565-44ae-a1aa-e50304895ae4" />
-](link_da_imagem.png)`
+](<img width="2146" height="1218" alt="image" src="https://github.com/user-attachments/assets/10c79dc5-f098-4387-9f4d-4c5e59f98f12" />
+)`
 
 ### 2. Relatório de Vendas e Lucro por País e Período
 `![Insira a imagem da página 2 aqui](link_da_imagem.png)`
