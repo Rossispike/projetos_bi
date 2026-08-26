@@ -27,7 +27,8 @@ A partir do relatório desenvolvido, destacam-se os seguintes resultados analít
 *(Adicione aqui os screenshots das páginas do seu relatório para que os visitantes não precisem baixar o PDF. Exemplo de estrutura abaixo:)*
 
 ### 1. Relatório de Vendas Considerando Produtos e Segmento
-`![Insira a imagem da página 1 aqui](link_da_imagem.png)`
+`![<img width="2146" height="1218" alt="image" src="https://github.com/user-attachments/assets/20ca4060-d565-44ae-a1aa-e50304895ae4" />
+](link_da_imagem.png)`
 
 ### 2. Relatório de Vendas e Lucro por País e Período
 `![Insira a imagem da página 2 aqui](link_da_imagem.png)`
