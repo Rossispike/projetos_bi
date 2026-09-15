@@ -11,7 +11,7 @@ A análise explora indicadores de vendas, lucro, produtos, segmentos e distribui
 Os arquivos deste repositório incluem o relatório em PDF e o arquivo `.pbix` desenvolvido durante a trilha de aprendizagem.
 
 ## 🎯 Objetivo
-Desenvolver um Dashboard Gerencial para tomada de decisões, analisando o faturamento, a margem de lucro e a distribuição de unidades vendidas considerando diferentes produtos, segmentos de clientes e países.
+Construir um Dashboard Gerencial para analisar faturamento, margem de lucro e distribuição de unidades vendidas, considerando diferentes produtos, segmentos de clientes e países.
 
 ## 📊 Dashboard
 
