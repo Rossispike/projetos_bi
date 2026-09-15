@@ -13,6 +13,10 @@ O arquivo principal deste repositório é o `primeiros_passos_bi.pdf`, que docum
 ## 🎯 Objetivo
 Desenvolver um Dashboard Gerencial para tomada de decisões, analisando o faturamento, a margem de lucro e a distribuição de unidades vendidas considerando diferentes produtos, segmentos de clientes e países.
 
+## 📊 Dashboard
+
+![Dashboard de Vendas por Produtos e Segmento](dashboard_vendas_produtos_segmento.png)
+
 ## 🛠️ Tecnologias e Conceitos Aplicados
 - **Power BI:** Criação de dashboards, visuais e cartões de KPIs.
 - **Análise de Dados:** Tratamento de dados brutos para extração de métricas de negócio.
