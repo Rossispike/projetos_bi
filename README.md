@@ -28,10 +28,10 @@ Construir um Dashboard Gerencial para analisar faturamento, margem de lucro e di
 
 ## 🔍 Principais Insights do Dashboard
 A partir do relatório desenvolvido, destacam-se os seguintes resultados analíticos:
-- O segmento Governamental (*GOVERNMENT*) é o mais lucrativo, sendo responsável por **65,04%** do lucro total (11,39 Milhões).
-- O produto **Paseo** é o carro-chefe em volume de vendas, compondo **27,8%** do faturamento (33,01 Milhões).
-- A receita total (*Soma de Sales*) do período analisado atingiu a marca de **118,73 Milhões**, correspondendo a **1 Milhão** de unidades vendidas.
-- Os Estados Unidos (*United States of America*) lideram o cenário global tanto em volume de vendas quanto em rentabilidade.
+- **Governo é o principal segmento em rentabilidade:** representa **65,04% do lucro total**, equivalente a **11,39 milhões**.
+- **Paseo é o produto com maior volume de vendas:** representa **27,8% do faturamento**, com **33,01 milhões** em vendas.
+- **O período analisado apresenta 118,73 milhões em vendas**, correspondentes a aproximadamente **1 milhão de unidades vendidas**.
+- **Os Estados Unidos apresentam o maior volume de vendas entre os países analisados**, enquanto a **França apresenta a maior rentabilidade**, com **3,78 milhões** em lucro.
 
 ## 💡 Competências Demonstradas
 - Análise exploratória de dados
