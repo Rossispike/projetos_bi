@@ -17,6 +17,10 @@ Desenvolver um Dashboard Gerencial para tomada de decisões, analisando o fatura
 
 ![Dashboard de Vendas por Produtos e Segmento](dashboard_vendas_produtos_segmento.png)
 
+### Análise de Vendas e Lucro
+
+![Relatório de Vendas e Lucro](dashboard_vendas_lucro.png)
+
 ## 🛠️ Tecnologias e Conceitos Aplicados
 - **Power BI:** Criação de dashboards, visuais e cartões de KPIs.
 - **Análise de Dados:** Tratamento de dados brutos para extração de métricas de negócio.
