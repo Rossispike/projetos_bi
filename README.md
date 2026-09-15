@@ -2,8 +2,11 @@
 
 > Projeto desenvolvido durante o Bootcamp Universia – Primeiros Passos em Power BI.
 
-## 📝 Sobre o Projeto
-Este repositório contém o projeto prático desenvolvido durante o **Bootcamp Universia - Primeiros Passos em Power BI**, promovido pela **Santander Open Academy** em parceria com a **Digital Innovation One (DIO)**. O programa foca na aplicação prática de Business Intelligence, desde a estruturação de dados até a criação de dashboards gerenciais, integrando conceitos de Inteligência Artificial aplicada a dados.
+## 📌 Sobre o Projeto
+
+Este projeto apresenta uma análise de vendas e rentabilidade desenvolvida no Power BI, com o objetivo de transformar dados comerciais em informações que auxiliem na compreensão do desempenho do negócio.
+
+A análise explora indicadores de vendas, lucro, produtos, segmentos e distribuição geográfica, permitindo identificar padrões e oportunidades a partir dos dados.
 
 O arquivo principal deste repositório é o `primeiros_passos_bi.pdf`, que documenta o relatório final construído durante a trilha de aprendizagem.
 
