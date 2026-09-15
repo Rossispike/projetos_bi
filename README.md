@@ -23,8 +23,9 @@ Construir um Dashboard Gerencial para analisar faturamento, margem de lucro e di
 
 ## 🛠️ Tecnologias e Conceitos Aplicados
 - **Power BI:** Criação de dashboards, visuais e cartões de KPIs.
-- **Análise de Dados:** Tratamento de dados brutos para extração de métricas de negócio.
-- **Storytelling com Dados:** Estruturação visual orientada à clareza e à tomada de decisão corporativa.
+- **DAX:** Criação e utilização de medidas e cálculos para análise dos indicadores.
+- **Análise de Dados:** Tratamento e exploração de dados para extração de métricas de negócio.
+- **Storytelling com Dados:** Estruturação visual orientada à clareza e à comunicação dos resultados.
 
 ## 🔍 Principais Insights do Dashboard
 A partir do relatório desenvolvido, destacam-se os seguintes resultados analíticos:
