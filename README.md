@@ -24,3 +24,11 @@ A partir do relatório desenvolvido, destacam-se os seguintes resultados analít
 - O produto **Paseo** é o carro-chefe em volume de vendas, compondo **27,8%** do faturamento (33,01 Milhões).
 - A receita total (*Soma de Sales*) do período analisado atingiu a marca de **118,73 Milhões**, correspondendo a **1 Milhão** de unidades vendidas.
 - Os Estados Unidos (*United States of America*) lideram o cenário global tanto em volume de vendas quanto em rentabilidade.
+
+## 💡 Competências Demonstradas
+- Análise exploratória de dados
+- Criação e interpretação de indicadores
+- Construção de dashboards
+- Visualização de dados
+- Identificação de padrões e tendências
+- Comunicação de insights
