@@ -8,7 +8,7 @@ Este projeto apresenta uma análise de vendas e rentabilidade desenvolvida no Po
 
 A análise explora indicadores de vendas, lucro, produtos, segmentos e distribuição geográfica, permitindo identificar padrões e oportunidades a partir dos dados.
 
-O arquivo principal deste repositório é o `primeiros_passos_bi.pdf`, que documenta o relatório final construído durante a trilha de aprendizagem.
+Os arquivos deste repositório incluem o relatório em PDF e o arquivo `.pbix` desenvolvido durante a trilha de aprendizagem.
 
 ## 🎯 Objetivo
 Desenvolver um Dashboard Gerencial para tomada de decisões, analisando o faturamento, a margem de lucro e a distribuição de unidades vendidas considerando diferentes produtos, segmentos de clientes e países.
